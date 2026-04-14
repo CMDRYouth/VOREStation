@@ -92,7 +92,7 @@
 
 /datum/alt_title/logistics_contractor
 	title = JOB_ALT_LOGISTICS_CONTRACTOR
-	title_blurb = "A " + JOB_ALT_LOGISTICS_CONTRACTOR + " someone who handles various fields of logistics, but isn't directly employed by NT proper."
+	title_blurb = "A " + JOB_ALT_LOGISTICS_CONTRACTOR + " is someone who handles various fields of logistics, but isn't directly employed by NT proper."
 
 //////////////////////////////////
 //			Shaft Miner
